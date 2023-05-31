@@ -1,0 +1,12 @@
+bll
+bll.validators
+connection
+dao
+model
+presentation
+presentation.client
+presentation.comanda
+presentation.facturi
+presentation.meniu
+presentation.produs
+start
